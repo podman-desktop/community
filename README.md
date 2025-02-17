@@ -29,6 +29,6 @@ Check out all our [future features!](https://github.com/containers/podman-deskto
    Check out the latest [blogs](./blogposts/README.md) by community members - and feel free to add your own!
 
 ## Demos
-   Check out Podman Desktop feature [demos](https://) <!--- This is a place holder will be updated when the PR for demo dir is merged -->
+   Check out Podman Desktop feature [demos](./demos/README.md)!
 
 
