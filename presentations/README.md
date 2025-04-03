@@ -17,6 +17,7 @@ This space is designed for community members to share their presentations relate
 | Name                  | GitHub handle | Event      | Year    | Title & link
 |-----------------------|---------------|------------|---------|----------------------------------
 |Cedric Clyburn            | @cedricclyburn           | DevNation Day Brazil    | 2024    | [Podman Desktop for Containers & Kubernetes](https://www.youtube.com/watch?v=OWnr7HFM_Ec)|
+| Tim deBoer            | @deboer-tim   | n/a        | 2025    | Extending Podman Desktop [PDF](./slides/Extending_Podman_Desktop.pdf), [PPTX](./slides/Extending_Podman_Desktop.pptx)
 
 
 
