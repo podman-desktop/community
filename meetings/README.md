@@ -9,6 +9,9 @@
 
 ## LATEST 
 
+Starting June 2025, we will be posting the community meeting recordings on our [Youtube Channel](https://www.youtube.com/@podmandesktop-rh).
+Please view all the community meeting recordings on the [Podman Desktop Community Meeting Playlist](https://www.youtube.com/playlist?list=PLwQSOOPzuslql836gEAqF66FAYLm5sno-)
+
 May 22, 2025
 - [Agenda](https://github.com/podman-desktop/community/issues/7)
 - [Recording](https://zoom.us/rec/share/ecrgk4K7K_SvZeBdOpPQogrQEdoPftZmm5tC3ozZI1HAbl07VjbqP6ePgowcWWko.ObWv6jUyaPOK4rkI)

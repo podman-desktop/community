@@ -23,7 +23,7 @@ All upcoming features are tracked with GitHub milestones.
 Check out all our [future features!](https://github.com/containers/podman-desktop/milestones)
 
 ## Community Meetings
-   Join the monthly meeting with the Podman Desktop core team **every 4th Thursday of the month**. Want to propose a new topic, share your story, present a demo or ask questions? Comment on the issue for the [upcoming meeting agenda](https://github.com/podman-desktop/community/issues?q=is%3Aissue%20state%3Aopen%20Agenda%20for%20Podman%20Desktop) or view the [past meeting recordings](./meetings/README.md#latest)
+   Join the monthly meeting with the Podman Desktop core team **every 4th Thursday of the month**. Want to propose a new topic, share your story, present a demo or ask questions? Comment on the issue for the [upcoming meeting agenda](https://github.com/podman-desktop/community/issues?q=is%3Aissue%20state%3Aopen%20Agenda%20for%20Podman%20Desktop) or view the [past meeting recordings](https://www.youtube.com/playlist?list=PLwQSOOPzuslql836gEAqF66FAYLm5sno-) on our [Youtube Channel](https://www.youtube.com/@podmandesktop-rh)
 
 
 ## Presentations
